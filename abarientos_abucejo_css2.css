@@ -1,0 +1,26 @@
+		body{
+			background: #b0a89d;
+			border: solid black;
+			border-width: 10px;
+			margin: 40px;
+			padding: 30px;
+		}
+
+		h2{
+			text-align: center;
+		}
+
+		p{
+			font-size: 20px;
+			border: solid #856704;
+			padding: 10px;
+		}
+
+		#proceed{
+			border: solid green;
+			margin-right: 10px;
+		}
+
+		#logout{
+			border: solid red;
+		}

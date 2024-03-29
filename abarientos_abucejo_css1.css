@@ -1,0 +1,92 @@
+		body{
+			background: #e3e3e3;
+			color: teal;
+			border: solid gold;
+			padding: 10px;
+			margin-top: 10px;
+			margin-right: 30px;
+			margin-left: 30px;
+		}
+
+		h1{
+			text-align: center;
+		}
+
+		h3{
+			text-align: center;
+			color: red;
+		}
+
+		h5{
+			text-align: center;
+		}
+
+		form{
+			border: solid black;
+			padding: 20px;
+		}
+
+		#t1{
+			font-size: 20px;
+			font-style: bold;
+		}
+
+		#h1{
+			text-align: center;
+			font-size: 20px;
+			color: red;
+			margin-bottom: 0px;
+		}
+
+		#h2{
+			text-align: center;
+			font-size: 15px;
+			margin-top: 0px;
+		}
+
+		#p1{
+			text-align: center;
+			font-size: 20px;
+			color: red;
+			margin-bottom: 0px;
+		}
+
+		#p2{
+			text-align: center;
+			font-size: 15px;
+			margin-top: 0px;
+
+		}
+
+		#c1{
+			text-align: center;
+			font-size: 20px;
+			color: green;
+			margin-bottom: 0px;
+		}
+
+		#c2{
+			text-align: center;
+			font-size: 15px;
+			margin-top: 0px;
+		}
+
+		#userid{
+			margin-right: 140px;
+		}
+
+		#firstname{
+			margin-right: 140px;
+		}
+
+		#email{
+			margin-right: 148px;
+		}
+
+		#submit{
+			border: solid black;
+		}
+
+		#login{
+			border: solid black;
+		}
